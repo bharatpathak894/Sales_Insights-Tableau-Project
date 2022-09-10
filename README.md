@@ -1,4 +1,4 @@
-## Sales Insights Data Analysis Project
+## Sales_Insights-Tableau-Project
 
 ### Data Analysis Using SQL
 
